@@ -1,26 +1,9 @@
-### Hi 👋 My name is Moozon. 
-
-![Moozon's stats](https://github-readme-stats.vercel.app/api?username=MoozonWei&show_icons=true&title_color=FF5542&text_color=ffffff&icon_color=2C974B&bg_color=24292e&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoozonWei&layout=compact&title_color=FF5542&text_color=ffffff&icon_color=2C974B&bg_color=24292e&border_radius=10)
-
-```
-                             \\\\\\\\\\
-                           \\\\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\\
-  -----------,-|           |C>    // )\\\\|
-           ,','|          /        ,' ////|
----------,','  |         (,           ////
-         ||    |          \___    //''''|
-         ||    |           |_____      /
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+<p align="center">
+  <samp>
+    <a disabled>blog</a> .
+    <a href="https://resume.moozon.site">resume</a> .
+    <a href="https://mastodon.social/@Moozon">mastodon</a> .
+    <a href="https://twitter.com/Moozon_Wei">twitter</a> .
+    <a href="https://instagram.com/moozon_wei">instagram</a>
+  </samp>
+</p>
